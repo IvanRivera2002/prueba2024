@@ -4,7 +4,7 @@ import React from "react";
   return (
       <div className=" bg-red-200 w-[2000px] ">
         <h1>
-          Index Page
+          Index Page 3
         </h1>
       </div>
   );
